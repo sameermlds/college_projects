@@ -54,7 +54,7 @@ window.grid_columnconfigure(0, weight=1)
 #canvas.create_image(0, 0, image=photo, anchor=tk.NW)
 
 #msg = Message(window, text='Hello, world!')
-
+#teste
 # Font is a tuple of (font_family, size_in_points, style_modifier_string)
 
 
